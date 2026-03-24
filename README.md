@@ -17,6 +17,7 @@ Box Disabling: Prevents players from clicking already-filled boxes or continuing
 Clone the repository:
 
 Bash
+https://github.com/Sanchita-InLoop/Tic-Tac-Toe
 
 Open the Project:
 Navigate to the project folder and open index.html in any modern web browser.
@@ -30,6 +31,3 @@ index.html: Contains the main game container and buttons.
 style.css: Provides the visual layout and "hide" classes for game messages.
 
 script.js: Manages the state, winning patterns, and click events.
-Implement a Scoreboard to track wins between multiple rounds.
-
-Add Animations for when a player wins.
