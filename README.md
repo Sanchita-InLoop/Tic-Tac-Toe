@@ -48,7 +48,7 @@ Navigate to the project folder and open index.html in any modern web browser.
 Play:
 Click on any box to place your marker. The first player is 'O' by default.
 
-📝 Future Improvements
+## 📝 Future Improvements
 
 Implement Draw/Tie detection logic for completed boards without a winner.
 
