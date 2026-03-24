@@ -49,7 +49,9 @@ Play:
 Click on any box to place your marker. The first player is 'O' by default.
 
 📝 Future Improvements
+
 Implement Draw/Tie detection logic for completed boards without a winner.
+
 Add a Scoreboard to track wins between rounds.
 
 Developed by Sanchita Gupta
